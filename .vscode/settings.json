@@ -1,0 +1,8 @@
+{
+  "slither.hiddenDetectors": [
+    "arbitrary-send-erc20-permit",
+    "arbitrary-send-eth"
+  ],
+  "slither.solcPath": "",
+  "solidity.compileUsingLocalVersion": "/Users/lefg/Documents/GitHub/code4rena/2023-01-biconomy/soljson-v0.8.12+commit.f00d7308.js"
+}
